@@ -1,0 +1,22 @@
+p{
+padding: 10px 10px 10px 10px;
+background-image: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 0, 255, 0.5));
+}
+
+.jumbotron{
+
+background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 0, 0, 0.5));
+
+}
+
+body{
+  background-color: darkgrey;
+}
+
+.hinge{
+  animation-duration: 5s;
+  -webkit-transform-origin: top right;
+  transform-origin: top right;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+}
